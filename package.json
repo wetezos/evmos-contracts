@@ -1,0 +1,14 @@
+{
+  "name": "evmos-contracts",
+  "version": "0.0.1",
+  "description": "",
+  "repository": "https://github.com/wetezos/evmos-contracts",
+  "scripts": {
+    "compile": "truffle compile"
+  },
+  "author": "Wetez",
+  "license": "GPL-3.0-only",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^3.2.0"
+  }
+}
